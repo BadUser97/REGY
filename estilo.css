@@ -1,0 +1,23 @@
+.form {
+	position:relative;
+	width:600px;
+	height:1000px;
+	padding-left: 15px;
+	padding-top: 15px;
+	background-color:#e5dfcd;
+	border-radius: 25px;
+	margin:auto;
+}
+.busqueda{
+position:center;
+background-color:#e5dfcd;
+background-position:center;
+border-radius: 30px;
+padding-left:30px;
+padding-right:30px;
+border-style:dotted;
+
+
+	
+}
+
